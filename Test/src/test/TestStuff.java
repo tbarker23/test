@@ -24,4 +24,8 @@ public class TestStuff
 	{
 		System.out.println(MIN);
 	}
+	public int returnzero()
+	{
+		return 0;
+	}
 }
