@@ -1,9 +1,8 @@
 package test;
-
 public class TestStuff 
 {
-	Integer MAX = Integer.MAX_VALUE;
-	Integer MIN = Integer.MIN_VALUE;
+	static Integer MAX = Integer.MAX_VALUE;
+	static Integer MIN = Integer.MIN_VALUE;
 	static String stuff = "stuff";
 
 	public static void main(String [] args)
