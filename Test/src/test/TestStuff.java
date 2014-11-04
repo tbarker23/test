@@ -28,4 +28,9 @@ public class TestStuff
 	{
 		return 0;
 	}
+	public int returnone()
+	{
+		return 1;
+	}
+	}
 }
